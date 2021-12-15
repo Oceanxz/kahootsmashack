@@ -8,9 +8,9 @@ Kahoot Smashack is a Kahoot hack that lets you flood Kahoot games with tons of b
 
 ## Credits
 
-Modified by CraizyRox / Romanio0089
+Modified by Ocnxz / Ocnxz
 
-Script originally made by cbozey (Reddit: @XeComputerboi) (YT: CBOZEY_BOY19)
+
 
 ## More Info
 
